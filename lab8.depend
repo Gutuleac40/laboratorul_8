@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1619039917 source:c:\users\upgrade\desktop\laboratoare_sda\laborator-2-gutuleac40\lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1620845132 source:c:\users\upgrade\desktop\lab8_graphs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"header.h"
+
+1620843829 c:\users\upgrade\desktop\lab8_graphs\header.h
+
+1620845274 source:c:\users\upgrade\desktop\lab8_graphs\functii.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
